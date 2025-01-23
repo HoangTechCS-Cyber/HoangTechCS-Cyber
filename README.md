@@ -7,7 +7,7 @@
   <li>💡 Aspiring to become a Senior AI Engineer and ultimately a Tech Entrepreneur</li>
   <li>🌏 Based in Hanoi, Vietnam</li>
 </ul>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/HoangTechCS-Cyber/HoangTechCS-Cyber/blob/main/V%C3%A0ng%20nh%E1%BA%A1t%20H%E1%BB%93ng%20Ch%E1%BB%A7%20ngh%C4%A9a%20s%E1%BB%91%20B%C3%A0i%20thuy%E1%BA%BFt%20tr%C3%ACnh%20%C4%91%C6%A1n%20gi%E1%BA%A3n.gif">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/htech.aie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htech.aie" height="30" width="40" /></a>
