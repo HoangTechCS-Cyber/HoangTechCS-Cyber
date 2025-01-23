@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=hoangtechcs-cyber&show_icons=true&locale=en&layout=compact](https://github.com/anuraghazra/github-readme-stats.git)" alt="hoangtechcs-cyber" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangtechcs-cyber&show_icons=true&locale=en&layout=compact" alt="hoangtechcs-cyber" /></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtechcs-cyber&show_icons=true&locale=en" alt="hoangtechcs-cyber" /></td>
   </tr>
 </table>
