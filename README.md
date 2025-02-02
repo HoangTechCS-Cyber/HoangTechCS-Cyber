@@ -15,7 +15,7 @@
 <a href="https://codeforces.com/profile/incomprehensibilities" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="incomprehensibilities" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hoangtechcs-cyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hoangtechcs-cyber" height="30" width="40" /></a>
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtechcs-cyber&" alt="hoangtechcs-cyber" /></p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -25,7 +25,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtechcs-cyber&" alt="hoangtechcs-cyber" /></p>
+
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangtechcs-cyber&show_icons=true&locale=en&layout=compact" alt="hoangtechcs-cyber" /></td>
